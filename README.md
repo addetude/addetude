@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeline</h1>
 <h3 align="center">A curious and creative dev based in Markham, Ontario.</h3>
 
-- 🔭 I’m currently building at [Savi Finance](https://financesavi.com/) & [BrainRidge](https://www.brainridgeconsulting.com/)
+- 🔭 I’m currently building at [Savi Finance](https://financesavi.com/) & [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
 
 - 🌱 I’m currently learning **Angular, Spring-Boot, and everything ML**
 
