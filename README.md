@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **Angular, Spring-Boot, and everything ML**
 
 - 👨‍💻 All of my projects are available at **TO BE RELEASED! (under construction!!)**
-  
-- 📝 I regularly write articles on **coming soon...**
 
 - 💬 Ask me about **poker, soccer, and music**
 
