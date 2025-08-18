@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
 
-- 🌱 I’m currently learning **Angular, Spring-Boot, and everything ML**
+- 🌱 I’m currently learning **Angular, Flask, and everything ML**
 
 <!-- - 👨‍💻 All of my projects are available at **TO BE RELEASED! (under construction!!)** -->
 
