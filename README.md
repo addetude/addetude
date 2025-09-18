@@ -5,7 +5,7 @@
 
 - 🦋 Currently building **How She Flows**, a menstrual subscription product for women of color
 
-- 🔭 Prev at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
+- 🔭 Prev at [BrainRidge Consulting](https://www.brainridgeconsulting.com/) and [Savi Finance](https://financesavi.com/)
 
 - 🌱 I’m currently learning **Power BI, AWS, and everything ML**
 
