@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adeline</h1>
 <h3 align="center">A curious and creative dev based in Markham, Ontario.</h3>
 
-- 🔭 I’m currently building at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
+- 📚 Full-time **Computer Science** & **Business** student at **Western University**
 
-- 🌱 I’m currently learning **Angular, Flask, and everything ML**
+- 🦋 Currently building **How She Flows**, a menstrual subscription product for women of color
+
+- 🔭 Prev at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
+
+- 🌱 I’m currently learning **Power BI, AWS, and everything ML**
 
 <!-- - 👨‍💻 All of my projects are available at **TO BE RELEASED! (under construction!!)** -->
 
