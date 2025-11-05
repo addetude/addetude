@@ -3,8 +3,10 @@
 
 - 📚 Full-time **Computer Science** & **Business** student at **Western University**
 
-- 🦋 Currently building **How She Flows**, a menstrual subscription product for women of color
-
+- 🦋 Currently building **How She Flows**, a menstrual subscription product site for women of color
+  
+- 🔍 I'm also building a **Data Dashboard** for **PlanCatalyst**, forecasting country development with regression modelling on human rights growth, climate change resilience, and financial capacity
+  
 - 🔭 Prev at [BrainRidge Consulting](https://www.brainridgeconsulting.com/) and [Savi Finance](https://financesavi.com/)
 
 - 🌱 I’m currently learning **Power BI, AWS, and everything ML**
