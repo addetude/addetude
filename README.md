@@ -8,8 +8,7 @@
 - 🔍 I'm also building a **Data Dashboard** for **PlanCatalyst**, forecasting country development with regression modelling on human rights growth, climate change resilience, and financial capacity
   
 - 🔭 Prev at [BrainRidge Consulting](https://www.brainridgeconsulting.com/) and [Savi Finance](https://financesavi.com/)
-
-- 🌱 I’m currently learning **Power BI, AWS, and everything ML**
+<!-- - 🌱 I’m currently learning **Power BI, AWS, and everything ML** -->
 
 <!-- - 👨‍💻 All of my projects are available at **TO BE RELEASED! (under construction!!)** -->
 
