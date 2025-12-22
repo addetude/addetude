@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeline</h1>
 <h3 align="center">A curious and creative dev based in Markham, Ontario.</h3>
 
-- 📚 Full-time **Computer Science** & **Business** student at **Western University**
+- 📚 Full-time **Computer Science** \& **Business** student at **Western University**
 
 - 🦋 Currently building **How She Flows**, a menstrual subscription product site for women of color
   
