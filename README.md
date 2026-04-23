@@ -2,12 +2,11 @@
 
 - 📚 Full-time **Computer Science** \& **Business** student at **Western University**
 
-- 🦋 Currently building **How She Flows**, a menstrual subscription product site for women of color
+- 🌱 Incoming Software Engineer Intern at RBC
   
-- 🔍 I'm also building a **Data Dashboard** for **PlanCatalyst**, forecasting country development with regression modelling on human rights growth, climate change resilience, and financial capacity
+- 🔍 I'm currently building a **Data Dashboard** for **PlanCatalyst**, forecasting country development with regression modelling on human rights growth, climate change resilience, and financial capacity
   
-- 🔭 Prev at [BrainRidge Consulting](https://www.brainridgeconsulting.com/) and [Savi Finance](https://financesavi.com/)
-<!-- - 🌱 I’m currently learning **Power BI, AWS, and everything ML** -->
+- 🔭 Prev at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
 
 <!-- - 👨‍💻 All of my projects are available at **TO BE RELEASED! (under construction!!)** -->
 
