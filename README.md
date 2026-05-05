@@ -6,7 +6,7 @@
   
 - 🔍 I'm currently building a **Data Dashboard** for **PlanCatalyst**, forecasting country development with regression modelling on human rights growth, climate change resilience, and financial capacity
   
-- 🔭 Prev at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
+- 🔭 Prev Software Engineering Consultant at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
 
 <!-- - 👨‍💻 All of my projects are available at **TO BE RELEASED! (under construction!!)** -->
 
