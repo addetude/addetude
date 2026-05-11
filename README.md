@@ -2,7 +2,7 @@
 
 - 📚 Full-time **Computer Science** \& **Business** student at **Western University**
 
-- 🌱 Current Software Developer Intern at RBC, working on the Salesforce team
+- 🌱 Current Software Developer Intern at RBC
   
 - 🔍 I'm currently building a **Data Dashboard** for **PlanCatalyst**, forecasting country development with regression modelling on human rights growth, climate change resilience, and financial capacity
   
