@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeline</h1>
 
-- 📚 Full-time **Computer Science** \& **Business** student at **Western University**
+- 📚 Full-time **Computer Science** \& **Business** student at **Western University** and **Ivey Business School**
 
 - 🔭 Software Developer Intern at RBC Prev Software Engineering Consultant at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
   
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **poker, soccer, and music**
 
-- 📫 How to reach me **addelue@gmail.com**
+- 📫 How to reach me **aluesang.hba2028@ivey.ca**
 
 - 📄 Know about my experiences [https://addetude.github.io/resume-site/](https://addetude.github.io/resume-site/)
 
