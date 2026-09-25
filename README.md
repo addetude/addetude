@@ -2,7 +2,7 @@
 
 - 📚 Full-time **Computer Science** \& **Business** student at **Western University** and **Ivey Business School**
 
-- 🔭 Software Developer Intern at RBC Prev Software Engineering Consultant at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
+- 🔭 Prev Software Developer Intern at [RBC](https://www.rbc.com/) and Software Engineering Consultant at [BrainRidge Consulting](https://www.brainridgeconsulting.com/)
   
 - 🔍 I'm currently building a **Data Dashboard** for **PlanCatalyst**, forecasting country development with regression modelling on human rights growth, climate change resilience, and financial capacity
 
